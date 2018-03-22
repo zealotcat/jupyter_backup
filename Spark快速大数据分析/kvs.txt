@@ -1,0 +1,3 @@
+name blademaster
+age 1000
+nation china

@@ -1,0 +1,42 @@
+17 Nov 10:25:20 ntpd[849]: Listen and drop on 0 v6wildcard [::]:123
+17 Nov 10:25:20 ntpd[849]: Listen and drop on 1 v4wildcard 0.0.0.0:123
+17 Nov 10:25:20 ntpd[849]: Listen normally on 2 lo 127.0.0.1:123
+17 Nov 10:25:20 ntpd[849]: Listen normally on 3 eth0 172.18.224.65:123
+17 Nov 10:25:20 ntpd[849]: Listening on routing socket on fd #20 for interface updates
+17 Nov 10:25:28 ntpd[849]: receive: Unexpected origin timestamp from 120.25.108.11
+17 Nov 10:25:28 ntpd[849]: error: Unexpected origin timestamp from 100.100.5.2
+17 Nov 10:25:28 ntpd[849]: error: Unexpected origin timestamp from 100.100.3.3
+17 Nov 10:25:28 ntpd[849]: error: Unexpected origin timestamp from 100.100.3.1
+17 Nov 10:25:28 ntpd[849]: receive: Unexpected origin timestamp from 100.100.5.3
+17 Nov 10:25:28 ntpd[849]: error: Unexpected origin timestamp from 100.100.3.2
+17 Nov 10:25:28 ntpd[849]: receive: Unexpected origin timestamp from 182.92.12.11
+17 Nov 10:25:28 ntpd[849]: receive: Unexpected origin timestamp from 115.28.122.198
+17 Nov 10:30:40 ntpd[849]: kernel reports TIME_ERROR: 0x41: Clock Unsynchronized
+17 Nov 16:20:30 ntpd[849]: ntpd exiting on signal 15 (Terminated)
+17 Nov 16:20:30 ntpd[849]: 127.127.1.0 local addr 127.0.0.1 -> <null>
+17 Nov 16:20:30 ntpd[849]: 182.92.12.11 local addr 172.18.224.65 -> <null>
+17 Nov 16:20:30 ntpd[849]: 100.100.3.2 local addr 172.18.224.65 -> <null>
+17 Nov 16:20:30 ntpd[849]: 120.25.115.19 local addr 172.18.224.65 -> <null>
+17 Nov 16:20:30 ntpd[849]: 120.25.115.20 local addr 172.18.224.65 -> <null>
+17 Nov 16:20:30 ntpd[849]: 120.25.108.11 local addr 172.18.224.65 -> <null>
+17 Nov 16:20:30 ntpd[849]: 115.28.122.198 local addr 172.18.224.65 -> <null>
+17 Nov 16:20:30 ntpd[849]: 10.143.33.49 local addr 172.18.224.65 -> <null>
+17 Nov 16:20:30 ntpd[849]: 10.143.33.50 local addr 172.18.224.65 -> <null>
+17 Nov 16:20:30 ntpd[849]: 10.143.33.51 local addr 172.18.224.65 -> <null>
+17 Nov 16:20:30 ntpd[849]: 10.143.0.44 local addr 172.18.224.65 -> <null>
+17 Nov 16:20:30 ntpd[849]: 10.143.0.45 local addr 172.18.224.65 -> <null>
+17 Nov 16:20:30 ntpd[849]: 10.143.0.46 local addr 172.18.224.65 -> <null>
+17 Nov 16:20:30 ntpd[849]: 100.100.5.1 local addr 172.18.224.65 -> <null>
+17 Nov 16:20:30 ntpd[849]: 100.100.5.2 local addr 172.18.224.65 -> <null>
+17 Nov 16:20:30 ntpd[849]: 100.100.5.3 local addr 172.18.224.65 -> <null>
+17 Nov 16:20:30 ntpd[849]: 100.100.3.1 local addr 172.18.224.65 -> <null>
+17 Nov 16:20:30 ntpd[849]: 100.100.3.3 local addr 172.18.224.65 -> <null>
+17 Nov 16:20:50 ntpd[806]: warning: Listen and drop on 0 v6wildcard [::]:123
+17 Nov 16:20:50 ntpd[806]: warning: Listen and drop on 1 v4wildcard 0.0.0.0:123
+17 Nov 16:20:50 ntpd[806]: Listen normally on 2 lo 127.0.0.1:123
+17 Nov 16:20:50 ntpd[806]: Listen normally on 3 eth0 172.18.224.65:123
+17 Nov 16:20:50 ntpd[806]: Listening on routing socket on fd #20 for interface updates
+17 Nov 16:20:59 ntpd[806]: receive: Unexpected origin timestamp from 100.100.3.3
+17 Nov 16:20:59 ntpd[806]: receive: Unexpected origin timestamp from 100.100.3.2
+17 Nov 16:20:59 ntpd[806]: receive: Unexpected origin timestamp from 100.100.5.1
+17 Nov 16:20:59 ntpd[806]: receive: Unexpected origin timestamp from 115.28.122.198
